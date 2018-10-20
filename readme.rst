@@ -1,4 +1,6 @@
-# Poljoportal
+###########
+POLJOPORTAL
+###########
 
 Poljoportal is application for trading with agricultural goods developed using PHP, CodeIngniter and Bootstrap.
 

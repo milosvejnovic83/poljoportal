@@ -1,3 +1,17 @@
+#Poljoportal
+
+Poljoportal is application for trading with agricultural goods developed using PHP, CodeIngniter and Bootstrap.
+
+Use the WAMP or other similar package to run the app.
+
+Database (testdb) provided for demonstrating purposes.
+
+Regular users can be registrated freely on homepage.
+
+Admin page which contains CMS can be accessed on "/asignup" - you can add additional admins directly in table but password must be encripted using php password_hash (be creative you can certainly figure it out).
+
+
+
 ###################
 What is CodeIgniter
 ###################

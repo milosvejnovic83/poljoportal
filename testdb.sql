@@ -40,8 +40,6 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`id`, `fname`, `lname`, `email`, `password`) VALUES
-(6, 'Milos', 'Vejnovic', 'milosvejn@yahoo.com', '$2y$10$ro/SUrO1yp61Yet6eJs.NuFfyPNRWVeEZAOAUz2m2Bt87f.TsKSGG'),
-(7, 'Goran', 'Milosevic', 'goranmbre@gmail.com', '$2y$10$1Gr0OC2MsXP40BBBAxBzw./LIRi3i.m5Jq0QfG.gCj790FaZgwPcq'),
 (9, 'Aca', 'Lukas', 'alukas@gmail.com', '$2y$10$QbxvPhrvC2jRsH38WxuCTObSOhSltpYTHWzARfJDe7LgX7LTXG.Iq'),
 (10, 'Sinan', 'Sakic', 'ssakic@gmail.com', '$2y$10$QbxvPhrvC2jRsH38WxuCTObSOhSltpYTHWzARfJDe7LgX7LTXG.Iq'),
 (11, 'Ljuba', 'Alicic', 'ljalicic@yahoo.com', '$2y$10$QbxvPhrvC2jRsH38WxuCTObSOhSltpYTHWzARfJDe7LgX7LTXG.Iq'),
